@@ -23,4 +23,6 @@ func main() {
 		}
 	}
 	fmt.Println("2d: ", twoD)
+
+	fmt.Println("Array Slice:", b[1:3])
 }
