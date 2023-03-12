@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	s := make([]string, 3) // what is make?
-	fmt. Println("emp:", s)
+	fmt.Println("emp:", s)
 
 
 	s[0] = "a"
