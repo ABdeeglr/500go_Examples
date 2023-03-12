@@ -28,20 +28,20 @@ It's just a go learning log.
 
 **Basic**
 
-1. Hello world
-2. Values
-3. Variables
-4. Constants
-5. For
-6. If/else
-7. Switch
+1. [x] Hello world
+2. [x] Values
+3. [x] Variables
+4. [x] Constants
+5. [x] For
+6. [x] If/else
+7. [x] Switch
 
 **Data Type**
 
-1. Arrays
-2. Slices
-3. Maps
-4. Range
+1. [x] Arrays
+2. [x] Slices
+3. [x] Maps
+4. [x] Range
 
 **Progress Abstract**
 
