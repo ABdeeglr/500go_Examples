@@ -2,6 +2,11 @@
 
 It's just a go learning log.
 
+## Plan
+
+1. Arrays/Slices/Maps/Range
+2. Nest week: Function part and Struct part
+
 ## Questions
 
 1. What's difference between `Print()` `Print;n()` `Printf()`? Why so much?
@@ -11,5 +16,53 @@ It's just a go learning log.
 
 ## Answer
 
-1.[Q3] https://www.notion.so/abdeeglr/Switch-C-Go-cfc1fbc6ebcd466384536ac6efac779c
-2.
+1. [Q3] https://www.notion.so/abdeeglr/Switch-C-Go-cfc1fbc6ebcd466384536ac6efac779c
+2. 
+
+## List of examples
+
+### Part I: Language Syntax
+
+**Basic**
+
+1. Hello world
+2. Values
+3. Variables
+4. Constants
+5. For
+6. If/else
+7. Switch
+
+**Data Type**
+
+1. Arrays
+2. Slices
+3. Maps
+4. Range
+
+**Progress Abstract**
+
+1. Functions
+2. Multiple Return Values
+3. Variadic Functions
+4. Closures
+5. Recursion
+6. Pointers | to be moved
+7. Strings and Runes | to be moved
+
+**Data Abstract**
+
+1. Structs
+2. Methods
+3. Interfaces
+4. Struct Embedding
+5. Generics
+
+**Other**
+
+1. Errors
+2. Goroutines
+3. Channel Buffering
+4. Channel Synchronization
+5. Channel Directions
+6. Select
