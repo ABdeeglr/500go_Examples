@@ -19,6 +19,8 @@ func main() {
 
 	switch time.Now().Weekday() {
 	case time.Saturday, time.Sunday:
+		// fmt.Println(time.Now().Weekday())
+		// fmt.Println(time.Now().Weekdat().type)
 		fmt.Println("It's weekend")
 	default:
 		fmt.Println("It's a weekday")
