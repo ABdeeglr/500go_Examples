@@ -8,7 +8,7 @@ import (
 func main() {
 	i := 2
 	fmt.Print("Write ", i, " as ") // What's the differenece between Println() and Print()?
-	switch i {
+	switch (i) {
 	case 1:
 		fmt.Println("one")
 	case 2:
