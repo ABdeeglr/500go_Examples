@@ -17,7 +17,10 @@ It's just a go learning log.
 ## Answer
 
 1. [Q3] https://www.notion.so/abdeeglr/Switch-C-Go-cfc1fbc6ebcd466384536ac6efac779c
-2. 
+2. [Q4] It's simply because slices are mutaible, but arrays are static.
+3. [\*Q1] Println() means print the content always in one line. Printf() is succeed from C. For now I don't know Print(). 
+4. 
+
 
 ## List of examples
 
