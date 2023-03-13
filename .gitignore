@@ -2,3 +2,7 @@
 bin/
 test*
 utt*
+<<<<<<< HEAD
+=======
+template.go
+>>>>>>> bugfix
