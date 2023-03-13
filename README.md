@@ -4,7 +4,7 @@ It's just a go learning log.
 
 ## Plan
 
-1. Arrays/Slices/Maps/Range
+1. [x] Arrays/Slices/Maps/Range
 2. Nest week: Function part and Struct part
 
 ## Questions
@@ -45,8 +45,8 @@ It's just a go learning log.
 
 **Progress Abstract**
 
-1. Functions
-2. Multiple Return Values
+1. [x]  Functions
+2. [x] Multiple Return Values
 3. Variadic Functions
 4. Closures
 5. Recursion
